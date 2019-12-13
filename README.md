@@ -1,8 +1,8 @@
 # bms
 BookMyShow Design problem
 
-## Schema
-### (Post) CREATE SCHEMA `bms` DEFAULT CHARACTER SET utf8 ;
+#### Schema
+###### (Post) CREATE SCHEMA `bms` DEFAULT CHARACTER SET utf8 ;
 
 ## Step1: Register Theater
 ### (Post) http://localhost:9000/theater/register/v1 
