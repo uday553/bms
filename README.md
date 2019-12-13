@@ -39,7 +39,7 @@ BookMyShow Design problem
 }
 
 #### Step6: List Show Booking Details details
-#######  http://localhost:9000/book/movie/seat/view/v1/1
+######  http://localhost:9000/book/movie/seat/view/v1/1
 
-####### http://localhost:9000/book/movie/seat/view/v1/{showId}
+###### http://localhost:9000/book/movie/seat/view/v1/{showId}
 
