@@ -42,7 +42,7 @@ public class MovieSeatBookingResource {
 		return bookingHandler.bookSeat(bookingSeatPojo);
 	}
 	
-	// API for new movie registration
+	// API to view seats
 	@RequestMapping(value = "/view/v1/{showId}", method = RequestMethod.GET)
 	@ResponseBody
 	public ResponseEntity<String> viewSeats( @PathVariable("showId") int showId)
